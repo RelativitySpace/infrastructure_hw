@@ -13,7 +13,7 @@ Open an issue on this repo if you have any questions about the problems.
 Adding clarification and description as comments or readme file is welcomed if needed.
 
 ### Problem 1: Wrong google search
-The goal is to deploy an nginx server on ubuntu that reverse proxies google.com but with a catch. Every search that includes "rockets" should be turned into search about "Relativity Space". For example if I go to this server in my browser I will be presented with google's page and if I search for "rockets" I should get results about "Relativity Space".
+The goal is to deploy an nginx server on ubuntu that reverse proxies google.com but with a catch. Every search that includes "rockets" should be turned into search about "Relativity Space". If I go to this server in my browser I will be presented with google's page and if I search for "rockets" I should get results about "Relativity Space".
 - I should be able to run your submitted script on an ubuntu box with admin access and then hit localhost and get the google page (It should include downloading and installing nginx and then configuring it to do reverse proxy)
 - It doesn't need to support https - http is fine
 - Bonus points for deploying the ubuntu image with your reverse proxy as a docker image in docker hub
