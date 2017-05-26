@@ -18,5 +18,5 @@ The goal is to deploy an nginx server on ubuntu that reverse proxies google.com 
 - It doesn't need to support https - http is fine
 - Bonus points for deploying the ubuntu image with your reverse proxy as a docker image in docker hub
 
-### Problem 1: PowerShell deleter
+### Problem 2: PowerShell deleter
 The goal is to write a PowerShell script that accepts three parameters from command line. First is an absolute path to a folder and next two are dates in following format: 'HH mm yyyy dd MM'. The script should then recursively look in all the folders within the path provided and delete files that have been created between the first date and second date, and also contain the word "Copy" in their name.
