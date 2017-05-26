@@ -1,4 +1,4 @@
-## Relativity Space - IT/DevOps candidates' assignments
+## Relativity Space - IT/DevOps candidates' assignment
 This readme contains assignment for infrastructure candidates
 
 ### Instructions:
